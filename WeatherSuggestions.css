@@ -1,0 +1,21 @@
+.weather-suggestions-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .weather-info {
+    margin-top: 20px;
+  }
+  
+  /* Add additional styling as needed for your weather suggestions */
+  
